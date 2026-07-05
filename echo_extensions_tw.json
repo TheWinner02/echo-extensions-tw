@@ -1,0 +1,42 @@
+[
+  {
+    "id": "echo_combine",
+    "type": "music",
+    "name": "Combine Extension",
+    "subtitle": "Combine metadata and audio from multiple extensions on Echo",
+    "iconUrl": "",
+    "updateUrl": "https://api.github.com/repos/dutixlf/echo-combine-extension/releases"
+  },
+  {
+    "id": "deezer",
+    "type": "music",
+    "name": "Deezer",
+    "subtitle": "Play music from Deezer on Echo",
+    "iconUrl": "https://e-cdn-files.dzcdn.net/cache/images/common/favicon/favicon-240x240.bb3a6a29ad16a77f10cb.png",
+    "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-deezer-extension/releases"
+  },
+  {
+    "id": "soundcloud",
+    "type": "music",
+    "name": "SoundCloud",
+    "subtitle": "Play music from SoundCloud on Echo",
+    "iconUrl": "https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14bdb.ico",
+    "updateUrl": "https://api.github.com/repos/rexontop/soundcloud-echo-extension/releases"
+  },
+  {
+    "id": "spotify",
+    "type": "music",
+    "name": "Spotify",
+    "subtitle": "Play music from Spotify on Echo",
+    "iconUrl": "https://files.catbox.moe/212opw.png",
+    "updateUrl": "https://api.github.com/repos/TheWinner02/echo-spotify-extension/releases"
+  },
+  {
+    "id": "Youtube_music",
+    "type": "music",
+    "name": "Youtube Music",
+    "subtitle": "Play music from Youtube on Echo",
+    "iconUrl": "https://music.youtube.com/img/favicon_144.png",
+    "updateUrl": "https://api.github.com/repos/Abhishek890/Eco-Youtube_Music/releases"
+  }
+]
