@@ -16,6 +16,14 @@
     "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-deezer-extension/releases"
   },
   {
+    "id": "qobuz",
+    "type": "music",
+    "name": "Qobuz",
+    "subtitle": "Play music from Qobuz on Echo",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://qobuz.com&size=128",
+    "updateUrl": "https://api.github.com/repos/TheWinner02/echo-qobuz-extension/releases"
+  },
+  {
     "id": "soundcloud",
     "type": "music",
     "name": "SoundCloud",
