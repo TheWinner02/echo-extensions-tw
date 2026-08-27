@@ -13,7 +13,7 @@
     "name": "Deezer",
     "subtitle": "Play music from Deezer on Echo",
     "iconUrl": "https://e-cdn-files.dzcdn.net/cache/images/common/favicon/favicon-240x240.bb3a6a29ad16a77f10cb.png",
-    "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-deezer-extension/releases"
+    "updateUrl": "https://api.github.com/repos/TheWinner02/echo-deezer-extension/releases"
   },
   {
     "id": "qobuz",
