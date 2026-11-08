@@ -20,7 +20,7 @@
     "type": "music",
     "name": "Flac Bridge",
     "subtitle": "Play Flac Lossless",
-    "iconUrl": "https://github.com/solidsnakeater87/echo-flac-bridge/blob/main/icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/solidsnakeater87/echo-flac-bridge/refs/heads/main/icon.png",
     "updateUrl": "https://api.github.com/repos/solidsnakeater87/echo-flac-bridge/releases"
   },
   {
