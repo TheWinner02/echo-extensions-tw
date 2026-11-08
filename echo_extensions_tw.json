@@ -15,6 +15,15 @@
     "iconUrl": "https://e-cdn-files.dzcdn.net/cache/images/common/favicon/favicon-240x240.bb3a6a29ad16a77f10cb.png",
     "updateUrl": "https://api.github.com/repos/TheWinner02/echo-deezer-extension/releases"
   },
+  
+  {
+    "id": "flac_bridge",
+    "type": "music",
+    "name": "Flac Bridge",
+    "subtitle": "Play Flac Lossless",
+    "iconUrl": "",
+    "updateUrl": "https://api.github.com/repos/solidsnakeater87/echo-flac-bridge/releases"
+  },
   {
     "id": "qobuz",
     "type": "music",
