@@ -16,14 +16,6 @@
     "updateUrl": "https://api.github.com/repos/TheWinner02/echo-deezer-extension/releases"
   },
   {
-    "id": "flac_bridge",
-    "type": "music",
-    "name": "Flac Bridge",
-    "subtitle": "Play Flac Lossless",
-    "iconUrl": "https://gitlab.com/solidsnakeater/echo-flac-bridge/-/raw/main/icon.png",
-    "updateUrl": "https://gitlab.com/api/v4/projects/solidsnakeater%2Fecho-flac-bridge/releases/permalink/latest"
-  },
-  {
     "id": "qobuz",
     "type": "music",
     "name": "Qobuz",
@@ -46,6 +38,14 @@
     "subtitle": "Play music from Spotify on Echo",
     "iconUrl": "https://files.catbox.moe/212opw.png",
     "updateUrl": "https://api.github.com/repos/TheWinner02/echo-spotify-extension/releases"
+  },
+  {
+    "id": "tidal",
+    "type": "music",
+    "name": "Tidal",
+    "subtitle": "Play music from Tidal on Echo",
+    "iconUrl": "https://raw.githubusercontent.com/TheWinner02/echo-tidal-extension/refs/heads/master/icon.png",
+    "updateUrl": "https://api.github.com/repos/TheWinner02/echo-tidal-extension/releases"
   },
   {
     "id": "Youtube_music",
