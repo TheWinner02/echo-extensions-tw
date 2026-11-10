@@ -20,8 +20,8 @@
     "type": "music",
     "name": "Flac Bridge",
     "subtitle": "Play Flac Lossless",
-    "iconUrl": "https://raw.githubusercontent.com/solidsnakeater87/echo-flac-bridge/refs/heads/main/icon.png",
-    "updateUrl": "https://api.github.com/repos/solidsnakeater87/echo-flac-bridge/releases"
+    "iconUrl": "https://gitlab.com/solidsnakeater/echo-flac-bridge/-/raw/main/icon.png",
+    "updateUrl": "https://gitlab.com/api/v4/projects/solidsnakeater%2Fecho-flac-bridge/releases"
   },
   {
     "id": "qobuz",
