@@ -21,7 +21,7 @@
     "name": "Flac Bridge",
     "subtitle": "Play Flac Lossless",
     "iconUrl": "https://gitlab.com/solidsnakeater/echo-flac-bridge/-/raw/main/icon.png",
-    "updateUrl": "https://gitlab.com/api/v4/projects/solidsnakeater%2Fecho-flac-bridge/releases"
+    "updateUrl": "https://gitlab.com/api/v4/projects/solidsnakeater%2Fecho-flac-bridge/releases/permalink/latest"
   },
   {
     "id": "qobuz",
